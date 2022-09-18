@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeckoPass", "GeckoPass\GeckoPass.csproj", "{CAA06694-4804-49C1-A9A3-DF0AA1600DC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA06694-4804-49C1-A9A3-DF0AA1600DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA06694-4804-49C1-A9A3-DF0AA1600DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA06694-4804-49C1-A9A3-DF0AA1600DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA06694-4804-49C1-A9A3-DF0AA1600DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FAB9CB2-1E30-470E-874E-CFDCCFE217C7}
+	EndGlobalSection
+EndGlobal
